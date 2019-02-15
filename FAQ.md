@@ -20,7 +20,7 @@ The second way to create a VM is from scratch with an ISO. The ISO files can be 
 **A5:** The ISO files can be found on each of the three `Local  compute datastores` under the directory `isos`.
 
 ## Q6: I want the ISO for an other distribution...
-**A6:** Upload it yourself to your own storage or contact Tim and maybe he will upload to the shared datastores.
+**A6:** Upload it yourself to your own storage or contact Tim and maybe he will upload the iso to the shared datastores.
 
 ## Q7: Can we have a real public IP address?
 **A7:** No.
