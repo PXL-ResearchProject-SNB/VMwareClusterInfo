@@ -28,5 +28,8 @@ The second way to create a VM is from scratch with an ISO. The ISO files can be 
 ## Q8: How can we communicate with Tim?
 **A8:** He'll be as much as possible available during the Research Project hours.
 
-## Q9: What are the credentials of the templates?
+## Q9: What are the credentials of the VM templates?
 **A9:** For the `-base-` templates it's: Login: `user`, password: `user`. For the  template `CnA-Jumpbox`, it's: Login `ansible` password: `test`. Why so unsecure? To trigger you to change it **immediately**!
+
+## Q10: Is there required format for the research paper?
+**A10:** Yes! There's even a [template](./template_researchpaper_2TIN.docx).
