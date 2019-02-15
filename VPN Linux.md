@@ -12,7 +12,7 @@ The student/senior account needs to have VPN access enabled by the IT-Department
 It's necessary to install the BIG-IP Edge Command Line Client from F5 Networks Inc.
 
 ### A. Download
-[Download](https://github.com/PXL-IT/VMwareClusterInfo/blob/master/linux_sslvpn.tar) the `tar`archive from this repository.
+[Download](./linux_sslvpn.tar) the `tar`archive from this repository.
 
 
 ### B. Extract
